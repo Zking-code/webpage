@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Zhangkai’ personal Pages
 
-You can use the [editor on GitHub](https://github.com/Zking-code/webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人荣誉
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+全国大学生集成电路创新创业大赛华中赛区一等奖，全国决赛三等奖
 
-```markdown
-Syntax highlighted code block
+校医院优秀义工
 
-# Header 1
-## Header 2
-### Header 3
+学习进步单项奖
 
-- Bulleted
-- List
+### 组织/社团
 
-1. Numbered
-2. List
+光学与电子信息学院学业支持中心学业部副部
 
-**Bold** and _Italic_ and `Code` text
+主要工作：负责与导师的联系，讲座的安排以及公众号的推文
 
-[Link](url) and ![Image](src)
-```
+### 项目经历
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+在第三届全国大学生集成电路创新创业大赛中，作为小组成员参赛。我们的赛题是“基于MTCNN与FaceNet的人脸识别及检测”，我在团队中主要负责MTCNN与FaceNet的网络训练，以及IDE上的算法仿真
 
-### Jekyll Themes
+### 短期目标
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zking-code/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+希望能考上研究生，有再度深造的机会
