@@ -1,6 +1,6 @@
 ## Welcome to Zhangkai’ personal Pages
 
-
+希望是隐藏在群山后的星星，探索是人生道路上执著的旅人——第谷·布拉赫
 
 ### 个人荣誉
 
